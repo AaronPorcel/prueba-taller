@@ -5,3 +5,5 @@ ls $1
 printf "El número de archivos del directorio ${1:-.} es: `ls $1 | wc -l`\n"
 
 printf "Ejecución terminada"
+
+printf "Cerrando terminal (es mentira)"
