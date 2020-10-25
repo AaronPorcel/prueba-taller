@@ -8,4 +8,4 @@ printf "Ejecución terminada"
 
 printf "Cerrando terminal (es mentira)"
 
-printf "Ya no se que mas puedo poner xd"
+printf "Ya no se que mas poner xd"
