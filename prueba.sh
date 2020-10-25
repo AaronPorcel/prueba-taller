@@ -7,3 +7,5 @@ printf "El número de archivos del directorio ${1:-.} es: `ls $1 | wc -l`\n"
 printf "Ejecución terminada"
 
 printf "Cerrando terminal (es mentira)"
+
+printf "Ya no se que mas poner xd"
