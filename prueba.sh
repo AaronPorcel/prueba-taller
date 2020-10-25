@@ -10,4 +10,4 @@ printf "Cerrando terminal (es mentira)"
 
 printf "Ya no se que mas poner xd"
 
-printf "Una frase nueva"
+printf "Una frase nueva pero modificada"
